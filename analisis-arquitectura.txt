@@ -1,0 +1,5 @@
+FullStack 
+
+mi opinión con respecto al video es acerca de la lógica de infraestructura que ellos poseen, ya que noto que fue creada desde un punto de vista modular ya que enlaza varios micro servicios y lo hace copeerar entre ellos para a si dar un baja latencia lo cual hace que los sistemas sean mas estables, esto tiene que ver también con el concepto que mas me intereso;
+
+El concepto que mas me intereso fue cuando comentaron acerca de la arquitectura multi-cloud ya que esta orientado a aprovechar el proveedor mas especifico para esa tarea, esto también ayuda con mejoras de rendimiento y tazas de respuesta  
